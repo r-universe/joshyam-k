@@ -2,3 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "saeczi"]
+	path = saeczi
+	url = https://github.com/cran/saeczi
